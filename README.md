@@ -1,16 +1,16 @@
   Hello visitor :wave:
 ### <i>About</i>
-- 🔭 I’m currently working on creating websites with React framework and creating e-commerce websites.
-- 🌱 I’m currently learning data visualization with R and Vue.
+- 🔭 I’m currently working on creating websites with React framework and e-commerce websites.
+- 🌱 I’m currently learning data visualization with R and Vue.js.
 - 📫 How to reach me: nur.akar@boun.edu.tr
 - 😄 Pronouns: she/her
 - :art: My hobbies are making sculpture, doing puzzle and painting with soft pastel.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- [![Yesim's github stats](https://github-readme-stats.vercel.app/api?username=yesimnurakar&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+ [![Yesim's github stats](https://github-readme-stats.vercel.app/api?username=yesimnurakar&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/yesimnurakar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesimnurakar&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesimnurakar&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/yesimnurakar/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>Languages and Tools ⚙</i>
