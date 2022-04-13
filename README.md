@@ -1,6 +1,6 @@
   Hello visitor :wave:
 ### <i>About</i>
-- 🔭 I’m currently working on creating websites with React framework and e-commerce websites.
+- 🔭 I’m currently working on creating websites with React framework and e-commerce websites with Shopware 6.
 - 🌱 I’m currently learning data visualization with R and Vue.js.
 - 📫 How to reach me: nur.akar@boun.edu.tr
 - 😄 Pronouns: she/her
